@@ -17,17 +17,10 @@
 <h3 align="left">Laser Engraving:</h3>
 <p align="left">I'm passionate about laser engraving and have honed my skills in this craft. I enjoy creating intricate designs and personalized items using laser engraving techniques.</p>
 
-<h3 align="center">C++</h3>
-<p align="center"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></p>
+<h3 align="center"></h3> <h3 align="center"></h3> <h3 align="center"></h3> <h3 align="center"></h3>
 
-<h3 align="center">HTML</h3>
-<p align="center"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></p>
+<p align="center"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/-VBA-007ACC?style=flat-square&logo=vba&logoColor=white"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></p>
 
-<h3 align="center">VBA</h3>
-<p align="center"><img src="https://img.shields.io/badge/-VBA-007ACC?style=flat-square&logo=vba&logoColor=white"></p>
-
-<h3 align="center">SQL</h3>
-<p align="center"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></p>
 
 ## 💼 Experience
 
