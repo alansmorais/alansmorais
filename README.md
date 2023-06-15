@@ -1,19 +1,53 @@
-<h1 align="center">Hi 👋, I'm Alan S M</h1>
-<h3 align="center">A passionate SAP Master Data user and Laser Engraving Enthusiast +5 years working with SAP SD/FI.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansmorais&label=Profile%20views&color=0e75b6&style=flat" alt="alansmorais" /> </p>
+# Hi there! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alansmorais" alt="alansmorais" /></a> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alandasm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alandasm/" height="30" width="40" /></a>
-<a href="https://instagram.com/mmcraftsandarts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmcraftsandarts" height="30" width="40" /></a>
-</p>
+<h3 align="left">I'm Alan S Morais, a Master Data Specialis with expertise in SAP, VBA, and laser engraving for fun.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🧰 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alansmorais&show_icons=true&locale=en&layout=compact" alt="alansmorais" /></p>
+<h3 align="left">SAP:</h3>
+<p align="left">I have extensive experience working with SAP modules, including SAP ERP, SAP HANA, and SAP Fiori. I'm skilled in developing and customizing SAP solutions to meet business requirements.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alansmorais&show_icons=true&locale=en" alt="alansmorais" /></p>
+<h3 align="left">VBA (Visual Basic for Applications):</h3>
+<p align="left">I'm proficient in VBA and have used it extensively to automate processes, create custom Excel macros, and enhance data analysis and reporting capabilities.</p>
+
+<h3 align="left">Laser Engraving:</h3>
+<p align="left">I'm passionate about laser engraving and have honed my skills in this craft. I enjoy creating intricate designs and personalized items using laser engraving techniques.</p>
+
+<h3 align="center">C++</h3>
+<p align="center"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></p>
+
+<h3 align="center">HTML</h3>
+<p align="center"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></p>
+
+<h3 align="center">VBA</h3>
+<p align="center"><img src="https://img.shields.io/badge/-VBA-007ACC?style=flat-square&logo=vba&logoColor=white"></p>
+
+<h3 align="center">SQL</h3>
+<p align="center"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></p>
+
+## 💼 Experience
+
+<h3 align="left">Master Data Specialist at Shell Poland:</h3>
+<p align="left">Worked as vendor and customer master data, specializing in SAP development and VBA automation. Developed custom SAP solutions, implemented system enhancements, and streamlined business processes.</p>
+
+<h3 align="left">Freelance Laser Engraver:</h3>
+<p align="left">As a freelance laser engraver, I've worked with various clients to bring their ideas to life. I've successfully completed projects of personalized gifts to any occasion.</p>
+
+## 🌱 Interests
+
+<p align="left">In addition to my professional work, I love exploring new technologies and staying up to date with the latest trends. I enjoy experimenting with different laser engraving techniques and materials, constantly pushing the boundaries of what can be achieved with this art form.</p>
+
+## 📫 Get in touch
+
+<p align="left">Feel free to reach out if you'd like to discuss collaborations, projects, or anything related to SAP, VBA, or laser engraving. I'm always excited to connect with fellow enthusiasts and professionals in these domains!</p>
+
+<div align="left">
+
+</div>
+
+<p align="left">Let's create something amazing together! ✨🔨🔬</p>
+``
