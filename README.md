@@ -1,4 +1,4 @@
-<div align="center">
+<div align="Left">
 
 <h3 align="left">I'm a Master Data Specialis with expertise in SAP, VBA, and laser engraving for fun.</h3>
 
