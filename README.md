@@ -14,6 +14,18 @@
 <h3 align="left">VBA (Visual Basic for Applications):</h3>
 <p align="left">I'm proficient in VBA and have used it extensively to automate processes, create custom Excel macros, and enhance data analysis and reporting capabilities.</p>
 
+<h3 align="left">C++:</h3>
+<p align="left">I have a strong command over C++ programming language. I have worked on various projects, including data structures, algorithms, and software development, leveraging the power and flexibility of C++.</p>
+
+<h3 align="left">HTML:</h3>
+<p align="left">I have a solid understanding of HTML and have developed web pages and web applications using HTML. I'm familiar with the latest HTML5 standards and best practices for building modern websites.</p>
+
+<h3 align="left">CSS (Cascading Style Sheets):</h3>
+<p align="left">I'm well-versed in CSS and have used it extensively to design and style web applications. I'm proficient in responsive design, CSS frameworks, and creating visually appealing user interfaces.</p>
+
+<h3 align="left">SQL:</h3>
+<p align="left">I have a strong foundation in SQL (Structured Query Language) and have used it to query and manipulate relational databases. I'm experienced in writing complex SQL queries, optimizing database performance, and designing efficient database schemas.</p>
+
 <h3 align="left">Laser Engraving:</h3>
 <p align="left">I'm passionate about laser engraving and have honed my skills in this craft. I enjoy creating intricate designs and personalized items using laser engraving techniques.</p>
 
