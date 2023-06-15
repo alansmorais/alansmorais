@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hi Everyone! 👋
-
-</div>
-
-<h3 align="left">I'm Alan S Morais, a Master Data Specialis with expertise in SAP, VBA, and laser engraving for fun.</h3>
+<h3 align="left">I'm a Master Data Specialis with expertise in SAP, VBA, and laser engraving for fun.</h3>
 
 ## 🧰 Skills
 
