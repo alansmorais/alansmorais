@@ -1,7 +1,9 @@
 <div align="Left">
 
-<h2 align="left">I'm a Master Data Specialis with expertise in SAP, VBA, and laser engraving for fun.</h3> 
+<h2 align="left">I'm a Master Data Specialist with expertise in SAP, VBA, and laser engraving for fun.</h3> 
 ## 🧰 Skills
+  
+  
 
 <h3 align="left">SAP:</h3>
 <p align="left">I have extensive experience working with SAP modules, including SAP ERP, SAP HANA, and SAP Fiori. I'm skilled in developing and customizing SAP solutions to meet business requirements.</p>
