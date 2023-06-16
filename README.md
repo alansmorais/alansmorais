@@ -1,55 +1,44 @@
-<div align="Left">
+Hi <everyone<every><everyone/>/>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Image Description" style="width: 30px; height: 30px;">
+___________________________________________________________________________________________________________________________________________________________
+<p> I'm Alan da Silva Morais
+ <p> Master Data Specialist with expertise in SAP, VBA, and Laser Engraving Enthusiastic
 
-<h2 align="left">I'm a Master Data Specialist with expertise in SAP, VBA, and laser engraving for fun.</h3> 
-## 🧰 Skills
-  
-  
+* 🌍  I'm based in Poland
+* ✉️  You can contact me at [alanpkmorais@gmail.com](mailto:alanpkmorais@gmail.com)
+* 🧠  I'm learning SAP ABAB
+* 🤝  I'm open to collaborating on projects
+* ⚡  I Am Thor, Tell Everyone
 
-<h3 align="left">SAP:</h3>
-<p align="left">I have extensive experience working with SAP modules, including SAP ERP, SAP HANA, and SAP Fiori. I'm skilled in developing and customizing SAP solutions to meet business requirements.</p>
+<a href="https://www.github.com/alansmorais" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/alansmorais?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
-<h3 align="left">VBA (Visual Basic for Applications):</h3>
-<p align="left">I'm proficient in VBA and have used it extensively to automate processes, create custom Excel macros, and enhance data analysis and reporting capabilities.</p>
-
-<h3 align="left">C++:</h3>
-<p align="left">I have a strong command over C++ programming language. I have worked on various projects, including data structures, algorithms, and software development, leveraging the power and flexibility of C++.</p>
-
-<h3 align="left">HTML:</h3>
-<p align="left">I have a solid understanding of HTML and have developed web pages and web applications using HTML. I'm familiar with the latest HTML5 standards and best practices for building modern websites.</p>
-
-<h3 align="left">CSS (Cascading Style Sheets):</h3>
-<p align="left">I'm well-versed in CSS and have used it extensively to design and style web applications. I'm proficient in responsive design, CSS frameworks, and creating visually appealing user interfaces.</p>
-
-<h3 align="left">SQL:</h3>
-<p align="left">I have a strong foundation in SQL (Structured Query Language) and have used it to query and manipulate relational databases. I'm experienced in writing complex SQL queries, optimizing database performance, and designing efficient database schemas.</p>
-
-<h3 align="left">Laser Engraving:</h3>
-<p align="left">I'm passionate about laser engraving and have honed my skills in this craft. I enjoy creating intricate designs and personalized items using laser engraving techniques.</p>
-
-<h3 align="center"></h3> <h3 align="center"></h3> <h3 align="center"></h3> <h3 align="center"></h3>
-
-<p align="center"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/-VBA-007ACC?style=flat-square&logo=vba&logoColor=white"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></p>
+### Skills
 
 
-## 💼 Experience
+<p align="left">
+<img src="https://www.svgrepo.com/show/331567/sap.svg" width="36" height="36" alt="C" /></a> 
+<img src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" width="36" height="36" alt="C" /></a> 
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
-<h3 align="left">Master Data Specialist at Shell Poland:</h3>
-<p align="left">Worked as vendor and customer master data, specializing in SAP development and VBA automation. Developed custom SAP solutions, implemented system enhancements, and streamlined business processes.</p>
 
-<h3 align="left">Freelance Laser Engraver:</h3>
-<p align="left">As a freelance laser engraver, I've worked with various clients to bring their ideas to life. I've successfully completed projects of personalized gifts to any occasion.</p>
+### Socials
 
-## 🌱 Interests
+<p align="left"> <a href="https://www.facebook.com/alankmorais" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/alansmorais" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mmcraftsandarts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alandasm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p align="left">In addition to my professional work, I love exploring new technologies and staying up to date with the latest trends. I enjoy experimenting with different laser engraving techniques and materials, constantly pushing the boundaries of what can be achieved with this art form.</p>
+### Badges
 
-## 📫 Get in touch
+<b>My GitHub Stats</b>
 
-<p align="left">Feel free to reach out if you'd like to discuss collaborations, projects, or anything related to SAP, VBA, or laser engraving. I'm always excited to connect with fellow enthusiasts and professionals in these domains!</p>
+<a href="http://www.github.com/alansmorais"><img src="https://github-readme-stats.vercel.app/api?username=alansmorais&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="alansmorais's GitHub stats" /></a>
 
-<div align="left">
+<a href="http://www.github.com/alansmorais"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alansmorais&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</div>
+<a href="http://www.github.com/alansmorais"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alansmorais&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p align="left">Let's create something amazing together! ✨🔨🔬</p>
-``
+<a href="https://github.com/alansmorais" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansmorais&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
